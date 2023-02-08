@@ -10,7 +10,7 @@ button.addEventListener("click",function(){
 let smile=document.getElementById('smile');
 smile.addEventListener("click",function(){
 smile.style.visibility="hidden";
-message.innerHTML=`OH WAIT!!!!OH DON'T GIVE ME THAT FUUCCKKIINGG SMILLEEE!!!!THAT DAMMNN SMILE&#128557;&#128557;&#128557;<br>****DEAD!!!!!!****<br><button id="alive" class="smile">CLICK TO MAKE ME ALIVE!</button>`;
+message.innerHTML=`OH WAIT!!!!OH DON'T GIVE ME THAT FUUCCKKIINGG CUTTEEE SMILLEEE!!!!THAT DAMMNN SMILE&#128557;&#128557;&#128557;<br>****DEAD!!!!!!****<br><button id="alive" class="smile">CLICK TO MAKE ME ALIVE!</button>`;
 background.style.backgroundImage="url('./broken-heart.png')"
 let alive=document.getElementById('alive');
 alive.addEventListener("click",function(){
